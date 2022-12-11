@@ -1,0 +1,272 @@
+body {
+	background: fuchsia;
+	font-family: sans-serif; text-align: center;
+}
+
+.photo p {
+	text-align: center;
+	padding: 3px;
+	color: firebrick;
+	font-size: 21px;
+}
+
+.photo a {
+	text-align: center;
+	color: firebrick;
+
+	text-decoration: none;
+	color: firebrick;
+}
+
+img {
+	margin-top: 30px;
+	width: 200px;
+	height: 300px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 99em;
+	color: aliceblue;
+}
+
+.mitas-instagram h2 {
+	text-align: left;
+	border-radius: 20px;
+	border-style: solid;
+	font-size: 20px;
+	padding: 30px;
+	margin: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	height: 20px;
+	background: blueviolet;
+
+}
+
+.mitas-instagram a {
+	text-decoration: none;
+	color: peachpuff;
+}
+
+.mitas-twitter h2 {
+	text-align: left;
+	border-radius: 20px;
+	border-style: solid;
+	font-size: 20px;
+	padding: 30px;
+	margin: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	height: 20px;
+	background: blueviolet;
+}
+
+.mitas-twitter a {
+	text-decoration: none;
+	color: peachpuff;
+}
+
+.mitas-bestie1 p {
+	text-align: left;
+	font-weight: bold;
+	border-radius: 20px;
+	border-style: solid;
+	font-size: 20px;
+	padding: 30px;
+	margin: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	height: 20px;
+	background: blueviolet;
+}
+
+.mitas-bestie1 a {
+	text-decoration: none;
+	color: peachpuff;
+}
+
+.mitas-bestie2 p {
+	text-align: left;
+	font-weight: bold;
+	border-radius: 20px;
+	border-style: solid;
+	font-size: 20px;
+	padding: 30px;
+	margin: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	height: 20px;
+	background: blueviolet;
+}
+
+.mitas-bestie2 a {
+	text-decoration: none;
+	color: peachpuff;
+}
+
+.mitas-bestie p {
+	text-align: left;
+	font-weight: bold;
+	border-radius: 20px;
+	border-style: solid;
+	font-size: 20px;
+	padding: 30px;
+	margin: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	height: 20px;
+	background: blueviolet;
+}
+
+.mitas-bestie a {
+	text-decoration: none;
+	color: peachpuff;
+}
+
+.judul {
+	text-align: center;
+	color: black;
+}
+
+.tabel {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+th,
+td {
+	border: 2px solid black;
+	text-align: center;
+	padding: 15px;
+}
+
+th:hover {
+	background-color: blueviolet;
+}
+
+td:hover {
+	background-color: blueviolet;
+}
+
+.tabel-utama {
+	background-color: blueviolet;
+	text-decoration: none;
+	color: black;
+}
+
+.back-friendsjquery {
+	margin-top: 40px;
+}
+
+.back-friendsjquery a {
+	background-color: blueviolet;
+	font-size: 20px;
+	color: black;
+	padding: 15px 25px;
+	text-decoration: none;
+	border-radius: 20px;
+}
+.back-friendsjquery a:hover {
+	background-color: peachpuff;
+}
+.tabel-kedua {
+	border-collapse: collapse;
+	width: 100px;
+}
+.p03 {
+	background-color: peachpuff;
+	text-decoration: none;
+	color: black;
+}
+.p03-judul {
+	text-align: center;
+	color: black;
+}
+.p03-tabel {
+	margin-top: 40px;
+}
+.p03-tabel a {
+	background-color: bisque;
+	font-size: 20px;
+	color: black;
+	padding: 15px 25px;
+	text-decoration: none;
+	border-radius: 20px;
+}
+.p03-tabel a:hover {
+	background-color: peachpuff;
+}
+.my-form  p {
+	text-align: left;
+	font-weight: bold;
+	border-radius: 20px;
+	border-style: solid;
+	font-size: 20px;
+	padding: 30px;
+	margin: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	height: 20px;
+	background: blueviolet;
+}
+.my-form a {
+	text-decoration: none;
+	color: peachpuff;
+}
+.my-formlv2  p {
+	text-align: left;
+	font-weight: bold;
+	border-radius: 20px;
+	border-style: solid;
+	font-size: 20px;
+	padding: 30px;
+	margin: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	height: 20px;
+	background: blueviolet;
+}
+.my-formlv2  a {
+	text-decoration: none;
+	color: peachpuff;
+}
+.my-tabelfadeout  p {
+	text-align: left;
+	font-weight: bold;
+	border-radius: 20px;
+	border-style: solid;
+	font-size: 20px;
+	padding: 30px;
+	margin: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	height: 20px;
+	background: blueviolet;
+}
+.my-tabelfadeout a {
+	text-decoration: none;
+	color: peachpuff;
+}
+.back-tabeljquery {
+	margin-top: 40px;
+}
+
+.back-tabeljquery a {
+	background-color: blueviolet;
+	font-size: 20px;
+	color: black;
+	padding: 15px 25px;
+	text-decoration: none;
+	border-radius: 20px;
+}
+.back-tabeljquery a:hover {
+	background-color: peachpuff;
+}
